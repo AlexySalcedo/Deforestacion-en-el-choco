@@ -135,6 +135,7 @@ nav a {
 #testimonials {
 	background-color: #fff;
 	padding: 100px;
+	text-align: center;
 	
 }
 
@@ -163,7 +164,7 @@ nav a {
 #testimonials img {
 	width: 626px;
 	height: 480px;
-	margin-left: 400px;
+	
 	
 }
 
